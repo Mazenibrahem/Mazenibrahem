@@ -9,16 +9,16 @@
 - 🎓 CS Student at Pharos University – Cybersecurity Track
 - 🧠 Currently learning **Advanced Web Exploitation, Networking & Cryptography**
 - 🚀 On a mission to find my first paid Bug!
-- 📹 I make Arabic cybersecurity content on [YouTube](https://www.youtube.com/@your-channel)
+- 📹 I make Arabic cybersecurity content on [YouTube](https://www.youtube.com/@MazenIbrahem)
 - 💬 Ask me about anything related to **infosec**, **CTFs**, or **learning paths**
 
 ---
 
 ### 🛠️ Skills
 
-- **Languages:** Python, Bash, C
+- **Languages:** Python, Bash, C, Java, C#, PHP
 - **Tools:** Burp Suite, Nmap, Wireshark, Metasploit, OWASP ZAP
-- **Areas:** Web Security, Cryptography, Access Control, Recon
+- **Areas:** Web Security, Cryptography, Access Control, Recon, etc
 
 ---
 
@@ -34,7 +34,7 @@
 ### 📫 How to reach me:
 
 - LinkedIn: [linkedin.com/in/mazen-ibrahim-b992842a4](https://www.linkedin.com/in/mazen-ibrahim-b992842a4)
-- Email: `mazenibrahem373@example.com`
+- Email: `mazenibrahem373@gmail.com.com`
 
 ---
 
