@@ -8,7 +8,7 @@
 - 🔐 Passionate about **Cybersecurity**, especially **Bug Bounty & Pentesting**
 - 🎓 CS Student at Pharos University – Cybersecurity Track
 - 🧠 Currently learning **Advanced Web Exploitation, Networking & Cryptography**
-- 🚀 On a mission to find my first paid Bug!
+- 🚀 I got a lot of Bugs!
 - 📹 I make Arabic cybersecurity content on [YouTube](https://www.youtube.com/@MazenIbrahem)
 - 💬 Ask me about anything related to **infosec**, **CTFs**, or **learning paths**
 
